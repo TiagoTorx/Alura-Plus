@@ -1,0 +1,20 @@
+-- Conteúdo --
+Início do projeto.
+Declaração de variáveis usando hexadecimal
+Instalação da extensão Live Server para visualização da página
+Variáveis facilitam o entendimento do uso das cores, a atribuição e manutenção.
+Download de imagens através do Figma
+Inserção de imagens e background
+Configuração de background para não repetir e ser contido
+Imagens de background não demanda interação com o usuário e não precisa de atributos 'alt'.
+
+display grid e grid-template-columns para determinar a divisão da tela.
+
+-- Nessa aula você aprendeu --
+Criar a pasta do projeto e os arquivos HTML e CSS no seu computador, assim como abrir a pasta no editor de código;
+Escrever o código base do arquivo HTML, através das tags que compõem a estrutura básica desse tipo de arquivo;
+Preencher os dados que são inseridos dentro da tag <head> que auxiliam o navegador a entender a codificação de caracteres, o tamanho do dispositivo e a conexão de arquivos externos;
+Estabelecer variáveis CSS e usar as mesmas, que ajudam a compreender melhor as cores por possuírem agora um nome ao invés do código hexadecimal;
+Instalar a extensão Live Server para conseguir ver as alterações no código automaticamente ao salvar o arquivo;
+Alterar a cor de fundo da página com background-color e da escrita com color;
+Inserir imagem de fundo com background-image e com a tag <img> assim como compreender suas diferenças de utilização.
